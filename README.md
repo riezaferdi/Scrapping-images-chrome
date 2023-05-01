@@ -1,4 +1,4 @@
-# Scrapping-images-chrome 
+# Scrapping-images-chrome (Sorry this doesnt work)
 # (Source :https://www.youtube.com/watch?v=5eXRxG-3rWM)
 
 1. Load search results page
