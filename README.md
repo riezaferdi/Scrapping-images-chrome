@@ -3,12 +3,6 @@
 
 1. Load search results page
 2. Open console
-3. Run:
-
-    imgs=document.querySelectorAll('.result-card_image--art')
-    let txt = [];
-    for (var i = 0; i<imgs.length; i++){txt.push(imgs[i].src.replace('mobile-large', 'original'))}
-    txt.toString().replace(/,/g, '\n')
-    
+3. Run: main.js
 4. Save output to a .txt 
 5. wget -i (filename}.txt
